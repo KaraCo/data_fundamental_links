@@ -12,7 +12,7 @@
 * [python machine learning](https://machinelearningmastery.com/category/python-machine-learning/)
 
 # Courses:
-* [Datacamp](www.datacamp.com)
-* [Dataquest](www.Dataquest.io)
+* [Datacamp](https://www.datacamp.com)
+* [Dataquest](https://www.Dataquest.io)
 * [freecodecamp](https://www.freecodecamp.org/)
-* [pluralsight](www.pluralsight.com)
+* [pluralsight](https://www.pluralsight.com)
