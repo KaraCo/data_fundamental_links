@@ -2,7 +2,7 @@
 * [my.visualstudio.com](https://my.visualstudio.com/)
 * [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
 
-# How to's:
+# How to's :+1::
 * [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [python for engineers](http://pythonforengineers.com/introduction-to-pandas/)
 * [webscrapping with python](http://blog.danwin.com/examples-of-web-scraping-in-python-3-x-for-data-journalists/)
