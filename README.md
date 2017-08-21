@@ -1,6 +1,7 @@
 # data fundamentals:
 
-[my.visualstudio.com](https://my.visualstudio.com/)
+* [my.visualstudio.com](https://my.visualstudio.com/)
+* [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
 
 # How to's:
 * [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
@@ -9,6 +10,7 @@
 * [The Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/index.html)
 * [Machine Learning Blog](https://machinelearningmastery.com/blog/)
 * [python machine learning](https://machinelearningmastery.com/category/python-machine-learning/)
+* [Pandas Tips](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)
 
 # Courses:
 * [Datacamp](https://www.datacamp.com)
