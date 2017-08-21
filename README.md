@@ -12,7 +12,7 @@
 * [Pandas Tips](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)
 * [Buble plot with python](https://medium.com/towards-data-science/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b)
 
-# Courses:
+# Current Courses:
 * [Datacamp](https://www.datacamp.com)
 * [Dataquest](https://www.Dataquest.io)
 * [freecodecamp](https://www.freecodecamp.org/)
