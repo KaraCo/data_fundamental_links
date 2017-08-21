@@ -1,5 +1,4 @@
 # data fundamentals:
-
 * [my.visualstudio.com](https://my.visualstudio.com/)
 * [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
 
@@ -12,6 +11,7 @@
 * [python machine learning](https://machinelearningmastery.com/category/python-machine-learning/)
 * [Pandas Tips](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)
 * [Buble plot with python](https://medium.com/towards-data-science/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b)
+
 # Courses:
 * [Datacamp](https://www.datacamp.com)
 * [Dataquest](https://www.Dataquest.io)
