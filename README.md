@@ -1,7 +1,6 @@
 # data fundamentals:
 
-[my.visualstudio.com](my.visualstudio.com)
-
+[my.visualstudio.com](https://my.visualstudio.com/)
 
 # How to's:
 * [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
