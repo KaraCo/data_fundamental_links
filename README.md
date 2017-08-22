@@ -11,7 +11,7 @@
 * [python machine learning](https://machinelearningmastery.com/category/python-machine-learning/)
 * [Pandas Tips](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)
 * [Buble plot with python](https://medium.com/towards-data-science/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b)
-* [Emoji Cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :bowtie:
+* [Emoji Cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 # Current Courses:
 * [Datacamp](https://www.datacamp.com)
