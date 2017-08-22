@@ -19,5 +19,5 @@
 * [pluralsight](https://www.pluralsight.com)
 
 # Next... :tada:
-* [GitHub -Student Developer pack](https://education.github.com/pack)
+* [GitHub -Student Developer pack](https://education.github.com/pack) :wave:
 * [Quick Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1) :wink:
