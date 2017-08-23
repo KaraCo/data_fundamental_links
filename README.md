@@ -1,3 +1,5 @@
+"Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior." Dee Hock :raised_hands:
+
 # data fundamentals:
 * [my.visualstudio.com](https://my.visualstudio.com/)
 * [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
