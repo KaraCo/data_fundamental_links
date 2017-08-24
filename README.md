@@ -14,6 +14,7 @@
 * [Pandas Tips](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)
 * [Buble plot with python](https://medium.com/towards-data-science/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b) :bar_chart: 
 * [Emoji Cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :bowtie:
+* [Neural Networks in Python]("http://www.welchlabs.com/blog/?offset=1415393340000")
 
 # Current Courses:
 * [Datacamp](https://www.datacamp.com)
