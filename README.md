@@ -11,6 +11,7 @@
 * [The Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/index.html)
 * [Machine Learning Blog](https://machinelearningmastery.com/blog/)
 * [python machine learning](https://machinelearningmastery.com/category/python-machine-learning/)
+* [Business Analysis with Python](http://pbpython.com/author/chris-moffitt.html)
 * [Pandas Tips](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)
 * [Buble plot with python](https://medium.com/towards-data-science/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b) :bar_chart: 
 * [Emoji Cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :bowtie:
