@@ -19,10 +19,10 @@
 * [Github pages](https://pages.github.com/)
 
 # Current Courses:
+* [Pluralsight](https://www.pluralsight.com)
 * [Datacamp](https://www.datacamp.com)
 * [Dataquest](https://www.Dataquest.io)
 * [freecodecamp](https://www.freecodecamp.org/)
-* [pluralsight](https://www.pluralsight.com)
 * [Scypy Lecture](http://www.scipy-lectures.org/index.html)
 
 # Next... :tada:
