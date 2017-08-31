@@ -23,6 +23,7 @@
 * [Dataquest](https://www.Dataquest.io)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [pluralsight](https://www.pluralsight.com)
+* [Scypy Lecture](http://www.scipy-lectures.org/index.html)
 
 # Next... :tada:
 * [GitHub -Student Developer pack](https://education.github.com/pack) :wave:
