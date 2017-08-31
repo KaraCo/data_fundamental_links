@@ -23,7 +23,7 @@
 * [Datacamp](https://www.datacamp.com)
 * [Dataquest](https://www.Dataquest.io)
 * [freecodecamp](https://www.freecodecamp.org/)
-* [Scypy Lecture](http://www.scipy-lectures.org/index.html)
+* [Scipy Lecture](http://www.scipy-lectures.org/index.html)
 
 # Next... :tada:
 * [GitHub -Student Developer pack](https://education.github.com/pack) :wave:
