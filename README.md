@@ -28,4 +28,4 @@
 # Next... :tada:
 * [GitHub -Student Developer pack](https://education.github.com/pack) :wave:
 * [Quick Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1) :wink:
-* [Learn JavaScript] (http://learnjswith.me/)
+* [Learn JavaScript](http://learnjswith.me/)
