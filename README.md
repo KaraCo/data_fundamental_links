@@ -29,3 +29,6 @@
 * [GitHub -Student Developer pack](https://education.github.com/pack) :wave:
 * [Quick Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1) :wink:
 * [Learn JavaScript](http://learnjswith.me/)
+
+# Technologies:
+* [Tableau](https://www.tableau.com/learn/tutorials/on-demand/pareto?reg-delay=5776078e939d78a6b84821f2b8ba4d98):bar_chart:
