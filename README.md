@@ -31,4 +31,4 @@
 * [Learn JavaScript](http://learnjswith.me/)
 
 # Technologies:
-* [Tableau](https://www.tableau.com/learn/tutorials/on-demand/pareto?reg-delay=5776078e939d78a6b84821f2b8ba4d98):bar_chart:
+* [Tableau](https://www.tableau.com/learn/tutorials/on-demand/pareto?reg-delay=5776078e939d78a6b84821f2b8ba4d98) :bar_chart:
