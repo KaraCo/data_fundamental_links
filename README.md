@@ -4,7 +4,7 @@
 * [my.visualstudio.com](https://my.visualstudio.com/)
 * [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
 
-# How to's :+1::
+# How to's Python:+1::
 * [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [python for engineers](http://pythonforengineers.com/introduction-to-pandas/)
 * [webscrapping with python](http://blog.danwin.com/examples-of-web-scraping-in-python-3-x-for-data-journalists/)
@@ -17,6 +17,9 @@
 * [Emoji Cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :bowtie:
 * [Neural Networks in Python](http://www.welchlabs.com/blog/?offset=1415393340000)
 * [Github pages](https://pages.github.com/)
+
+# How to's R:+1::
+* [Apriori Rules explained](http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation)
 
 # Current Courses:
 * [Pluralsight](https://www.pluralsight.com)
@@ -32,3 +35,4 @@
 
 # Technologies:
 * [Tableau](https://www.tableau.com/learn/tutorials/on-demand/pareto?reg-delay=5776078e939d78a6b84821f2b8ba4d98) :bar_chart:
+
