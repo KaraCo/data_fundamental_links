@@ -21,6 +21,7 @@
 # How to's R:+1::
 * [Apriori Rules explained](http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation)
 * [Text Mining](https://drive.google.com/file/d/0BzqeP3J9B8lZWjJIRk1JazByT00/edit)
+* [Text Classification R](https://sites.google.com/site/mlshortcourse/home/data-sets/text-classification-in-r)
 
 # Current Courses:
 * [Pluralsight](https://www.pluralsight.com)
