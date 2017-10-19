@@ -20,6 +20,7 @@
 
 # How to's R:+1::
 * [Apriori Rules explained](http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation)
+* [Text Mining](https://drive.google.com/file/d/0BzqeP3J9B8lZWjJIRk1JazByT00/edit)
 
 # Current Courses:
 * [Pluralsight](https://www.pluralsight.com)
