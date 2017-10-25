@@ -22,6 +22,10 @@
 * [Apriori Rules explained](http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation)
 * [Text Mining](https://drive.google.com/file/d/0BzqeP3J9B8lZWjJIRk1JazByT00/edit)
 * [Text Classification R](https://sites.google.com/site/mlshortcourse/home/data-sets/text-classification-in-r)
+* [R plots](https://www.datacamp.com/community/tutorials/15-questions-about-r-plots)
+* [Naïve Bayes Text Analysis](https://rpubs.com/cen0te/naivebayes-sentimentpolarity)
+* [Basic Text Mining](https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html)
+* [Text Analysis](http://cfss.uchicago.edu/fall2016/text01.html)
 
 # Current Courses:
 * [Pluralsight](https://www.pluralsight.com)
@@ -38,4 +42,7 @@
 # Technologies:
 * [Tableau](https://www.tableau.com/learn/tutorials/on-demand/pareto?reg-delay=5776078e939d78a6b84821f2b8ba4d98) :bar_chart:
 * [Hadoop Tools](http://bigdata-madesimple.com/20-essential-hadoop-tools-for-crunching-big-data/)
+* [IBM Watson Starter Kits](https://www.ibm.com/watson/developercloud/starter-kits.html)
 
+# Datasources:
+* [Trump Twitter Archive](http://www.trumptwitterarchive.com/)
