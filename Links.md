@@ -47,6 +47,7 @@
 * [Tableau](https://www.tableau.com/learn/tutorials/on-demand/pareto?reg-delay=5776078e939d78a6b84821f2b8ba4d98) :bar_chart:
 * [Hadoop Tools](http://bigdata-madesimple.com/20-essential-hadoop-tools-for-crunching-big-data/)
 * [IBM Watson Starter Kits](https://www.ibm.com/watson/developercloud/starter-kits.html)
+* [JSON-LD Jason for linking data](https://json-ld.org/) :wink:
 
 # Datasources:
 * [Trump Twitter Archive](http://www.trumptwitterarchive.com/)
