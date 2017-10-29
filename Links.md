@@ -48,6 +48,7 @@
 * [Hadoop Tools](http://bigdata-madesimple.com/20-essential-hadoop-tools-for-crunching-big-data/)
 * [IBM Watson Starter Kits](https://www.ibm.com/watson/developercloud/starter-kits.html)
 * [JSON-LD Jason for linking data](https://json-ld.org/) :wink:
+* [Rapidminer](https://rapidminer.com/products/studio/)
 
 # Datasources:
 * [Trump Twitter Archive](http://www.trumptwitterarchive.com/)
