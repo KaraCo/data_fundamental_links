@@ -5,24 +5,17 @@
 * [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
 
 # How to's Python:+1::
-* [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-* [python for engineers](http://pythonforengineers.com/introduction-to-pandas/)
-* [webscrapping with python](http://blog.danwin.com/examples-of-web-scraping-in-python-3-x-for-data-journalists/)
-* [The Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/index.html)
-* [Machine Learning Blog](https://machinelearningmastery.com/blog/)
-* [python machine learning](https://machinelearningmastery.com/category/python-machine-learning/)
-* [Business Analysis with Python](http://pbpython.com/author/chris-moffitt.html) :bowtie:
-* [Pandas Tips](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)
-* [Buble plot with python](https://medium.com/towards-data-science/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b) :bar_chart: 
-* [Emoji Cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :bowtie:
-* [Neural Networks in Python](http://www.welchlabs.com/blog/?offset=1415393340000)
-* [Github pages](https://pages.github.com/)
+* [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) | * [python for engineers](http://pythonforengineers.com/introduction-to-pandas/) | * [webscrapping with python](http://blog.danwin.com/examples-of-web-scraping-in-python-3-x-for-data-journalists/) | * [The Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/index.html)
+
+* [Machine Learning Blog](https://machinelearningmastery.com/blog/) | * [python machine learning](https://machinelearningmastery.com/category/python-machine-learning/) | * [Business Analysis with Python](http://pbpython.com/author/chris-moffitt.html) :bowtie: | * [Pandas Tips](https://medium.com/towards-data-science/pandas-tips-and-tricks-33bcc8a40bb9)
+
+* [Buble plot with python](https://medium.com/towards-data-science/exploring-the-census-income-dataset-using-bubble-plot-cfa1b366313b) :bar_chart: | * [Emoji Cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :bowtie: | * [Neural Networks in Python](http://www.welchlabs.com/blog/?offset=1415393340000) | * [Github pages](https://pages.github.com/)
 
 # How to's R:+1::
 
-| * [Apriori Rules explained](http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation) | * [Text Mining](https://drive.google.com/file/d/0BzqeP3J9B8lZWjJIRk1JazByT00/edit) | * [Text Mining and N-grams](https://rpubs.com/brianzive/textmining) | * [Text Mining](https://rstudio-pubs-static.s3.amazonaws.com/163802_0f005a14bcfb4c4b8ee17ac8a8e6c3e9.html) | * [N-gram Clouds](https://rstudio-pubs-static.s3.amazonaws.com/118348_a00ba585d2314b3c937d6acd4f4698b0.html) |
+* [Apriori Rules explained](http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation) | * [Text Mining](https://drive.google.com/file/d/0BzqeP3J9B8lZWjJIRk1JazByT00/edit) | * [Text Mining and N-grams](https://rpubs.com/brianzive/textmining) | * [Text Mining](https://rstudio-pubs-static.s3.amazonaws.com/163802_0f005a14bcfb4c4b8ee17ac8a8e6c3e9.html) | * [N-gram Clouds](https://rstudio-pubs-static.s3.amazonaws.com/118348_a00ba585d2314b3c937d6acd4f4698b0.html) |
 
-| * [Naïve Bayes Text Analysis](https://rpubs.com/cen0te/naivebayes-sentimentpolarity) | * [Text Classification R with Naïve Bayes](https://sites.google.com/site/mlshortcourse/home/data-sets/text-classification-in-r) | * [R plots](https://www.datacamp.com/community/tutorials/15-questions-about-r-plots) | * [Basic Text Mining](https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html) | * [Text Analysis](http://cfss.uchicago.edu/fall2016/text01.html)
+* [Naïve Bayes Text Analysis](https://rpubs.com/cen0te/naivebayes-sentimentpolarity) | * [Text Classification R with Naïve Bayes](https://sites.google.com/site/mlshortcourse/home/data-sets/text-classification-in-r) | * [R plots](https://www.datacamp.com/community/tutorials/15-questions-about-r-plots) | * [Basic Text Mining](https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html) | * [Text Analysis](http://cfss.uchicago.edu/fall2016/text01.html)
 
 # Current Courses:
 * [Pluralsight](https://www.pluralsight.com)
