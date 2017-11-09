@@ -19,17 +19,10 @@
 * [Github pages](https://pages.github.com/)
 
 # How to's R:+1::
-* [Apriori Rules explained](http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation)
-* [Text Mining](https://drive.google.com/file/d/0BzqeP3J9B8lZWjJIRk1JazByT00/edit)
-* [Text Mining and N-grams](https://rpubs.com/brianzive/textmining)
-* [Text Mining](https://rstudio-pubs-static.s3.amazonaws.com/163802_0f005a14bcfb4c4b8ee17ac8a8e6c3e9.html)
-* [N-gram Clouds](https://rstudio-pubs-static.s3.amazonaws.com/118348_a00ba585d2314b3c937d6acd4f4698b0.html)
-* [Naïve Bayes Text Analysis](https://rpubs.com/cen0te/naivebayes-sentimentpolarity)
-* [Text Classification R with Naïve Bayes](https://sites.google.com/site/mlshortcourse/home/data-sets/text-classification-in-r)
-* [R plots](https://www.datacamp.com/community/tutorials/15-questions-about-r-plots)
-* [Basic Text Mining](https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html)
-* [Text Analysis](http://cfss.uchicago.edu/fall2016/text01.html)
 
+| * [Apriori Rules explained](http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation) | * [Text Mining](https://drive.google.com/file/d/0BzqeP3J9B8lZWjJIRk1JazByT00/edit) | * [Text Mining and N-grams](https://rpubs.com/brianzive/textmining) | * [Text Mining](https://rstudio-pubs-static.s3.amazonaws.com/163802_0f005a14bcfb4c4b8ee17ac8a8e6c3e9.html) | * [N-gram Clouds](https://rstudio-pubs-static.s3.amazonaws.com/118348_a00ba585d2314b3c937d6acd4f4698b0.html) |
+
+| * [Naïve Bayes Text Analysis](https://rpubs.com/cen0te/naivebayes-sentimentpolarity) | * [Text Classification R with Naïve Bayes](https://sites.google.com/site/mlshortcourse/home/data-sets/text-classification-in-r) | * [R plots](https://www.datacamp.com/community/tutorials/15-questions-about-r-plots) | * [Basic Text Mining](https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html) | * [Text Analysis](http://cfss.uchicago.edu/fall2016/text01.html)
 
 # Current Courses:
 * [Pluralsight](https://www.pluralsight.com)
