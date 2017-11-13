@@ -5,7 +5,7 @@
 * [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
 
 ## ML:
-* [Interpreting Regression Coefficients](Logistic Regression on Titanic Data)
+* [Interpreting Regression Coefficients](http://www.cazaar.com/ta/econ113/interpreting-beta)
 
 ## How to's Python:+1::
 * [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) | * [python for engineers](http://pythonforengineers.com/introduction-to-pandas/) | * [webscrapping with python](http://blog.danwin.com/examples-of-web-scraping-in-python-3-x-for-data-journalists/) | * [The Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/index.html)
