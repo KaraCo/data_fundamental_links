@@ -26,5 +26,7 @@
 ## Technologies:
 * [Tableau](https://www.tableau.com/learn/tutorials/on-demand/pareto?reg-delay=5776078e939d78a6b84821f2b8ba4d98) :bar_chart: | * [Hadoop Tools](http://bigdata-madesimple.com/20-essential-hadoop-tools-for-crunching-big-data/) | * [IBM Watson Starter Kits](https://www.ibm.com/watson/developercloud/starter-kits.html) | * [JSON-LD Jason for linking data](https://json-ld.org/) :wink: | * [Rapidminer](https://rapidminer.com/products/studio/)
 
+* [Apache Spark](https://www.slideshare.net/databricks/building-robust-etl-pipelines-with-apache-spark) | * [ML with SparkPy](https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning#model)
+
 ## Datasources:
 * [Trump Twitter Archive](http://www.trumptwitterarchive.com/) | * [SmartData Collective](https://www.smartdatacollective.com/big-data-20-free-big-data-sources-everyone-should-know/) | * [7 hidden sources of data](https://www.mrc-productivity.com/blog/2015/04/7-hidden-sources-of-big-data-that-you-probably-have/) | * [Real Uses of Hadoop](https://www.mrc-productivity.com/blog/2015/06/7-real-life-use-cases-of-hadoop/)
