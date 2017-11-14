@@ -3,6 +3,7 @@
 ## Data fundamentals:
 * [my.visualstudio.com](https://my.visualstudio.com/)
 * [Data Science Weekly](https://www.datascienceweekly.org/newsletters)
+* [Neural Networkds and Deep Learning Book](http://neuralnetworksanddeeplearning.com/index.html)
 
 ## ML:
 * [Interpreting Regression Coefficients](http://www.cazaar.com/ta/econ113/interpreting-beta)
