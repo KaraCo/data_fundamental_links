@@ -26,6 +26,9 @@
 
 * [Text Analysis](http://cfss.uchicago.edu/fall2016/text01.html)
 
+## How to SQL
+* [Data Monkey](http://datamonkey.pro/) * [SQL in Mode](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
+
 ## Current Courses:
 * [Pluralsight](https://www.pluralsight.com) | * [Datacamp](https://www.datacamp.com) | * [Dataquest](https://www.Dataquest.io) | * [freecodecamp](https://www.freecodecamp.org/) | * [Scipy Lecture](http://www.scipy-lectures.org/index.html) | * [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 
