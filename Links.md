@@ -33,7 +33,7 @@
 * [Pluralsight](https://www.pluralsight.com) | * [Datacamp](https://www.datacamp.com) | * [Dataquest](https://www.Dataquest.io) | * [freecodecamp](https://www.freecodecamp.org/) | * [Scipy Lecture](http://www.scipy-lectures.org/index.html) | * [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 
 ## Next... :tada:
-* [GitHub -Student Developer pack](https://education.github.com/pack) :wave: | * [Quick Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1) :wink: | * [Learn JavaScript](http://learnjswith.me/)
+* [GitHub -Student Developer pack](https://education.github.com/pack) :wave: | * [Quick Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1) :wink: | * [Learn JavaScript](http://learnjswith.me/) | * [School of data](https://schoolofdata.org/courses/)
 
 ## Technologies:
 * [Tableau](https://www.tableau.com/learn/tutorials/on-demand/pareto?reg-delay=5776078e939d78a6b84821f2b8ba4d98) :bar_chart: | * [Hadoop Tools](http://bigdata-madesimple.com/20-essential-hadoop-tools-for-crunching-big-data/) | * [IBM Watson Starter Kits](https://www.ibm.com/watson/developercloud/starter-kits.html) | * [JSON-LD Jason for linking data](https://json-ld.org/) :wink: | * [Rapidminer](https://rapidminer.com/products/studio/)
