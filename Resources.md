@@ -26,6 +26,8 @@
 
 * [Text Analysis](http://cfss.uchicago.edu/fall2016/text01.html)
 
+* [dplyr](https://suzan.rbind.io/2018/01/dplyr-tutorial-1/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_176)
+
 ## How to SQL
 * [Data Monkey](http://datamonkey.pro/) * [SQL in Mode](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 
