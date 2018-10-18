@@ -31,7 +31,8 @@
 ## How to SQL
 * [Data Monkey](http://datamonkey.pro/) * [SQL in Mode](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 
-## Current Courses:
+## Courses:
+* [Kaggle Learn] (https://www.kaggle.com/learn/overview?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_166) | 
 * [Pluralsight](https://www.pluralsight.com) | * [Datacamp](https://www.datacamp.com) | * [Dataquest](https://www.Dataquest.io) | * [freecodecamp](https://www.freecodecamp.org/) | * [Scipy Lecture](http://www.scipy-lectures.org/index.html) | * [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 
 ## Next... :tada:
